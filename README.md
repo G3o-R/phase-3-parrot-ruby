@@ -22,3 +22,5 @@ values are important. Ask yourself? what is the return value of `puts`?_
 ## Resources
 
 - [Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
+
+https://github.com/G3o-R/phase-3-parrot-ruby
